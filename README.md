@@ -1,39 +1,44 @@
 <div align="center">
 
   <a href="https://github.com/sonukumar450">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Sonu+Kumar;Java+Backend+Developer;Full+Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sonu+Kumar;Java+Backend+Developer;Full+Stack+Developer;Welcome+to+my+GitHub+Profile"
+      alt="Animated typing introduction"
+    />
   </a>
 
   <p>
-    <strong>Java Backend Developer | Spring Boot | Full Stack Development</strong>
+    <strong>Java Backend Development | Spring Boot | Full Stack Development</strong>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=sonukumar450&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/sonukumar450?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+    <a href="https://github.com/sonukumar450?tab=followers">
+      <img src="https://img.shields.io/github/followers/sonukumar450?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="GitHub followers" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=sonukumar450&label=Profile%20Views&style=for-the-badge&color=0E75B6" alt="Profile views" />
   </p>
 
 </div>
 
-<img align="right" width="300" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" alt="Coding cat GIF" />
+<img align="right" width="290" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" alt="Animated coding cat" />
 
 About Me
 
-I'm a BCA student and aspiring software developer.
+I'm a BCA student and an aspiring software developer.
 
-I enjoy building applications and solving programming problems.
+My primary interest is Java backend development.
 
-My primary focus is Java backend development with Spring Boot.
+I work with Spring Boot, REST APIs, and relational databases.
 
-I work with REST APIs, databases, and full-stack application development.
+I also explore frontend development with HTML, CSS, JavaScript, and React.
 
-I’m exploring containerization and deployment tools such as Docker and Kubernetes.
+I enjoy learning new tools and improving my problem-solving skills.
 
-I believe in learning by building projects and improving a little every day.
+My goal is to grow as a software developer by learning and building consistently.
 
-<br clear="right"/>
+<br clear="right" />
 
-Tech Stack
+Tech Stack & Tools
 
 Programming Languages
 
@@ -58,15 +63,15 @@ Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
 Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 </p>
 
 DevOps & Developer Tools
@@ -79,64 +84,70 @@ DevOps & Developer Tools
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-Featured Projects
+Areas of Interest
 
-1. Spring Boot CRUD Application
-
-Built a backend application using Java, Spring Boot, and MySQL.
-
-Implemented CRUD operations and REST API endpoints.
-
-Used Docker as part of the development environment.
-
-2. Registration Form Application
-
-Full-stack registration application using React and Spring Boot.
-
-Connects the frontend with backend REST APIs.
-
-Uses a database to store registration data.
-
-3. BazaarHub – E-commerce Frontend
-
-E-commerce frontend project built with React, HTML, CSS, and Bootstrap.
-
-Includes product-focused pages and reusable UI components.
-
-Add links to your project repositories in this section when they are public.
+<p>
+  <img src="https://img.shields.io/badge/Backend_Development-2563EB?style=flat-square" alt="Backend development" />
+  <img src="https://img.shields.io/badge/REST_API_Development-0F766E?style=flat-square" alt="REST API development" />
+  <img src="https://img.shields.io/badge/Database_Design-7C3AED?style=flat-square" alt="Database design" />
+  <img src="https://img.shields.io/badge/Cloud_%26_Containers-0891B2?style=flat-square" alt="Cloud and containers" />
+  <img src="https://img.shields.io/badge/Problem_Solving-D97706?style=flat-square" alt="Problem solving" />
+</p>
 
 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonukumar450&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sonu's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumar450&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=sonukumar450&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    alt="Sonu's GitHub statistics"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumar450&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Most used programming languages"
+  />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=sonukumar450&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=sonukumar450&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </div>
 
 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonukumar450&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonukumar450&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 </div>
 
 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonukumar450&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sonukumar450&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    width="100%"
+    alt="GitHub profile trophies"
+  />
 </div>
 
 Connect With Me
 
 <div align="center">
   <a href="https://github.com/sonukumar450">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" />
   </a>
 </div>
 
 <div align="center">
-  <h3>Thanks for visiting my profile!</h3>
-  <p>Keep learning, keep building, and keep growing.</p>
+  <br />
+  <strong>Thanks for visiting my profile!</strong>
+  <br />
+  <sub>Keep learning • Keep building • Keep growing</sub>
 </div>
