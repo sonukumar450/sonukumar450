@@ -16,7 +16,7 @@
 
 ## About Me
 
-- I am a BCA student and aspiring Software Developer.
+- I am a MCA student and aspiring Software Developer.
 - Interested in Java Backend Development.
 - Currently learning Spring Boot and REST APIs.
 - Working with databases and frontend technologies.
@@ -95,11 +95,41 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonukumar450&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
-## Most Used Languages
+
+
+
+## <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumar450&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=sonukumar450&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
+
+<h2 align="center">Most Used Languages</h2>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonukumar450&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<h2 align="center">GitHub Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sonukumar450&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+
+
+
+
+
 
 ## GitHub Streak
 
@@ -139,15 +169,15 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/sonu-kumar-1522482aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kumarsonu36550@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+  <a href="I'm on Instagram as @hey_sonu_23. Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?utm_content=a6upfy9&obrf=iaqd16c9znhr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
