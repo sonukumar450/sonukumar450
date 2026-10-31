@@ -92,49 +92,23 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonukumar450&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sonukumar450&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
+---
 
-
-
-## <h2 align="center">GitHub Statistics</h2>
+## Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=sonukumar450&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonukumar450&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-<h2 align="center">Most Used Languages</h2>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonukumar450&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<h2 align="center">GitHub Streak</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sonukumar450&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-
-
-
-
+---
 
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonukumar450&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sonukumar450&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -146,6 +120,8 @@
     <img src="https://img.shields.io/badge/View_My_GitHub_Activity-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
 
 ## GitHub Achievements
 
@@ -177,7 +153,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="I'm on Instagram as @hey_sonu_23. Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?utm_content=a6upfy9&obrf=iaqd16c9znhr" target="_blank">
+  <a href="https://www.instagram.com/hey_sonu_23/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
