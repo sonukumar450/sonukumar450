@@ -1,3 +1,4 @@
+```html
 <!-- Animated Header -->
 <h1 align="center">Hi, I'm Sonu Kumar</h1>
 
@@ -51,7 +52,6 @@
 ### Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -63,6 +63,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### Core Computer Science
+
+<p>
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Systems-2E7D32?style=for-the-badge" />
 </p>
 
 ### Tools & Technologies
@@ -84,6 +93,8 @@
   <img src="https://img.shields.io/badge/Backend_Development-007396?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full_Stack_Development-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST_API_Development-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Systems-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem_Solving-FF9800?style=for-the-badge" />
 </p>
 
@@ -170,3 +181,4 @@
   <br>
   Keep Learning | Keep Building | Keep Growing
 </p>
+```
