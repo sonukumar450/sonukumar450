@@ -1,4 +1,4 @@
-```html
+
 <!-- Animated Header -->
 <h1 align="center">Hi, I'm Sonu Kumar</h1>
 
